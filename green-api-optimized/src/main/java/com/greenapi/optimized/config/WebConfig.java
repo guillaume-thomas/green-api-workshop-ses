@@ -1,4 +1,4 @@
-package com.example.optimized.config;
+package com.greenapi.optimized.config;
 
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;

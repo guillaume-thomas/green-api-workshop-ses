@@ -1,6 +1,6 @@
-package com.example.optimized.repo;
+package com.greenapi.optimized.repo;
 
-import com.example.optimized.domain.Book;
+import com.greenapi.optimized.domain.Book;
 import org.springframework.stereotype.Repository;
 
 import java.time.Instant;

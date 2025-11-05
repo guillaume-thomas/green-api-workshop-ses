@@ -1,4 +1,4 @@
-package com.example.optimized.domain;
+package com.greenapi.optimized.domain;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;
