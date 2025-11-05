@@ -1,4 +1,4 @@
-package com.example.optimized.observability;
+package com.greenapi.optimized.observability;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

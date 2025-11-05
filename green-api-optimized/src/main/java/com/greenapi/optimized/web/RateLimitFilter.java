@@ -1,4 +1,4 @@
-package com.example.optimized.web;
+package com.greenapi.optimized.web;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

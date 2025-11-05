@@ -18,9 +18,9 @@ Practical workshop (50 min) to reduce the footprint of HTTP APIs by applying the
 ## Quick Start
 ```bash
 # Terminal 1
-cd baseline && mvn spring-boot:run
+cd green-api-baseline && mvn clean install && mvn spring-boot:run
 # Terminal 2
-cd optimized && mvn spring-boot:run
+cd green-api-optimized && mvn clean install && mvn spring-boot:run
 # Terminal 3
 cd scripts && bash measure_baseline.sh && bash measure_optimized.sh
 ```
